@@ -27,7 +27,7 @@ project:
 | [pointpats](https://github.com/pysal/pointpats)     | Planar point pattern  analysis                                                            |
 | [pysal](https://github.com/pysal/pysal)             | The meta-pacakge                                                                          |
 | [region](https://github.com/pysal/region)           | Spatially constrained clustering                                                          |
-| [spaghetti](https://github.com/pysal/spaghettie)    | Spatial graphs, networks, topology, and inference                                         |
+| [spaghetti](https://github.com/pysal/spaghetti)     | Spatial graphs, networks, topology, and inference                                         |
 | [spglm](https://github.com/pysal/spglm)             | Methods and functions to fit sparse Generalized Linear Models                             |
 | [spint](https://github.com/pysal/spint)             | Spatial interaction modeling library                                                      |
 | [splot](https://github.com/pysal/splot)             | Lightweight plotting for geospatial statistical analysis                                  |
