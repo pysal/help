@@ -5,7 +5,7 @@ If you need help with the PySAL project or have specific questions, please [open
 ### Please ask us
 PySAL is a large project with many components. This is the one-stop-shopping, point of entry for questions about the broader project.
 
-You can submit a question using the `Issues` tab at the top of hte page. Next click the green `New Issue` button.
+You can submit a question using the `Issues` tab at the top of the page. Next click the green `New Issue` button.
 You can enter your quesiton in the textitle text box, and  if you have more details, enter them
 in the comment fields. So that we may help you in the best possible way, please provide as much information as you can
 regarding your question (operating system, its version, etc).
@@ -27,6 +27,7 @@ project:
 | [pointpats](https://github.com/pysal/pointpats)     | Planar point pattern  analysis                                                            |
 | [pysal](https://github.com/pysal/pysal)             | The meta-pacakge                                                                          |
 | [region](https://github.com/pysal/region)           | Spatially constrained clustering                                                          |
+| [segregation](https://github.com/pysal/segregation) | Socieconomic segregation                                                                  |
 | [spaghetti](https://github.com/pysal/spaghetti)     | Spatial graphs, networks, topology, and inference                                         |
 | [spglm](https://github.com/pysal/spglm)             | Methods and functions to fit sparse Generalized Linear Models                             |
 | [spint](https://github.com/pysal/spint)             | Spatial interaction modeling library                                                      |
