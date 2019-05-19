@@ -20,7 +20,7 @@ project:
 | [esda](https://github.com/pysal/esda)               | Exploratory spatial data analysis                                                         |
 | [giddy](https://github.com/pysal/giddy)             | Geographical distribution dynamics                                                        |
 | [inequality](https://github.com/pysal/inequality)   | Spatial inequality analytics                                                              |
-| [lengendgram](https://github.com/pysal/legendgram)  | Distributional map legends for map classification                                         |
+| [legendgram](https://github.com/pysal/legendgram)   | Distributional map legends for map classification                                         |
 | [libpysal](https://github.com/pysal/libpysal)       | Core of PySAL containing computational geometry, graph construction, and read/write tools |
 | [mapclassify](https://github.com/pysal/mapclassify) | Classification schemes for choropleth mapping                                             |
 | [mgwr](https://github.com/pysal/mgwr)               | Multiscale geographically weighted regression                                             |
