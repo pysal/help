@@ -23,6 +23,7 @@ project:
 | [legendgram](https://github.com/pysal/legendgram)   | Distributional map legends for map classification                                         |
 | [libpysal](https://github.com/pysal/libpysal)       | Core of PySAL containing computational geometry, graph construction, and read/write tools |
 | [mapclassify](https://github.com/pysal/mapclassify) | Classification schemes for choropleth mapping                                             |
+| [momepy](https://github.com/pysal/momepy)           | Urban Morphology Measuring Toolkit                                                        |
 | [mgwr](https://github.com/pysal/mgwr)               | Multiscale geographically weighted regression                                             |
 | [pointpats](https://github.com/pysal/pointpats)     | Planar point pattern  analysis                                                            |
 | [pysal](https://github.com/pysal/pysal)             | The meta-pacakge                                                                          |
